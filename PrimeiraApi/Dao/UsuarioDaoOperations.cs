@@ -2,10 +2,7 @@ using System.Runtime.ExceptionServices;
 using Microsoft.EntityFrameworkCore;
 using MySqlConnector;
 using PrimeiraApi.Data;
-using PrimeiraApi.Dtos;
-using PrimeiraApi.Dtos.Enums;
 using PrimeiraApi.Dtos.Request;
-using PrimeiraApi.Dtos.Response;
 using PrimeiraApi.Entities;
 
 namespace PrimeiraApi.Dao;
